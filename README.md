@@ -32,7 +32,7 @@ Built using the Groq API with Meta's `llama3-8b-8192` model.
 1. **Clone the repo**
 
 bash
-git clone https://github.com/your-username/multitask-chatbot.git
+git clone https://github.com/AdityaChinta/Python-Software-Engineer-Assignment.git
 cd multitask-chatbot
 
 2. **Install Requirements**
