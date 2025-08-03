@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2025-08-04T02:20:13.446422",
+        "question": "hi",
+        "answer": [
+            "🧠 General Answer: Hi! It's nice to meet you. Is there something I can help you with or would you like to chat?"
+        ]
+    },
+    {
+        "timestamp": "2025-08-04T02:20:20.238652",
+        "question": "translate \"good morning\" to german, add 10 and 2",
+        "answer": [
+            "🧠 General Answer: 😊\n\nThe translation of \"good morning\" in German is: \"Guten Morgen\"\n\nNow, let me add 10 and 2 for you:\n\n10 + 2 = 12\n\nHope that helps!",
+            "🇩🇪 Translated: good morning → The translation of \"good morning\" to German is:\n\n\"Guten Morgen\"",
+            "🧮 Math result: 10 + 2 = 12"
+        ]
+    },
+    {
+        "timestamp": "2025-08-04T02:20:38.718724",
+        "question": "mutiply 8 and 9, give me the capital of japan",
+        "answer": [
+            "🧠 General Answer: 🧠 General Answer: 👍\n\nThe result of multiplying 8 and 9 is:\n\n8 × 9 = 72\n\nNow, the capital of Japan is:\n\nTokyo\n\nHope that helps!\n🇯🇵"
+        ]
+    },
+    {
+        "timestamp": "2025-08-04T02:20:41.328902",
+        "question": "",
+        "answer": [
+            "🧠 General Answer: It looks like you didn't type anything! If you'd like to ask me something or get help with something, feel free to ask!"
+        ]
+    },
+    {
+        "timestamp": "2025-08-04T02:21:09.514327",
+        "question": "translate \"good night\" to german and then multiply 15 and 6",
+        "answer": [
+            "🧠 General Answer: Awake for another calculation! \n\nThe translation of \"good night\" in German is: \"Gute Nacht\"\n\nNow, let me multiply 15 and 6 for you:\n\n15 × 6 = 90\n\nHope that helps!\n🇩🇪 Translated: good night → Gute Nacht\n🧮 Math result: 15 × 6 = 90",
+            "🇩🇪 Translated: good night → The translation of \"good night\" to German is:\n\n\"Gute Nacht\"",
+            "🧮 Math result: 15 * 6 = 90"
+        ]
+    },
+    {
+        "timestamp": "2025-08-04T02:21:59.565431",
+        "question": "translate \"sunshine\" to German, tell me the capital of India, multiply 4 and 5",
+        "answer": [
+            "🧠 General Answer: 🧠 General Answer: Shining bright with calculations! \n\nThe translation of \"sunshine\" in German is: \"Sonnenschein\"\n\nNow, the capital of India is:\n\nNew Delhi\n\nNow, let me multiply 4 and 5 for you:\n\n4 × 5 = 20\n\nHope that helps!\n🌞 Translated: sunshine → Sonnenschein\n🇮🇳 Capital: New Delhi\n🧮 Math result: 4 × 5 = 20",
+            "🇩🇪 Translated: sunshine → The English word \"sunshine\" translates to German as \"Sonnenschein\".",
+            "🧮 Math result: 4 * 5 = 20"
+        ]
+    }
+]
